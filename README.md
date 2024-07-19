@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=trandung2k1.trandung2k1)
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+TranDung....;Nice+to+meet+you!&center=true&size=35">
@@ -22,7 +23,7 @@
   </div>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=trandung2k1&theme=dracula" width="100%"/>
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=trandung2k1&theme=dracula" width="100%"/> -->
 </p>
 
 
